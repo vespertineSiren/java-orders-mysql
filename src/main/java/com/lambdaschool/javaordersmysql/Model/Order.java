@@ -69,7 +69,6 @@ public class Order {
     public Set<Customer> getCustomers() {
         return customers;
     }
-
     public void setCustomers(Set<Customer> customers) {
         this.customers = customers;
     }
